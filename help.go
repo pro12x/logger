@@ -22,11 +22,7 @@ func Help() {
 		logger [flags]
 
 	Flags:
-		-version: Print the version of the logger
+		-v: Print the version of the logger
 
-		-help: Print the help message for the logger
-
-		Examples:
-			logger -version
-			logger -help`)
+		-h: Print the help message for the logger`)
 }
