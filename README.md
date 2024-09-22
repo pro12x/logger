@@ -10,7 +10,7 @@ This project is a simple logging utility written in Go. It provides functionalit
 ### Installation
 You can install the logger library using the following command:
 ```shell
-go install github.com/pro12x/logger/cmd/logger@v1.0.0
+go install github.com/pro12x/logger/cmd/logger@v1.1.0
 ```
 
 ### Usage
